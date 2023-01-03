@@ -1,0 +1,4 @@
+hi
+this is my fast file
+this is linux related
+i am practice in git
