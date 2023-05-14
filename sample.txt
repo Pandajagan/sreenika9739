@@ -1,0 +1,4 @@
+this is my fast file in linux
+this is git session
+currently i am using only practice purposes
+this folder is demo folder
